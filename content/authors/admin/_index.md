@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xuanming Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Science in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Columbia University
+  url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Natural Language Processing, Social Computing and Dialogue Systems.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Social media analysis and opinion mining
+# - Sentiment analysis
+# - Computational Social Science, human-machine interaction and medical related areas
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computer Science
+    institution: Columbia University
+    year: 2021 - now
+  - course: BS in Computer Science with Artificial Intelligence
+    institution: University of Nottingham Ningbo China
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,26 +39,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:xz2995@columbia.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/XuanmingZHANG24
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=AMDiesgAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/BillyZhang24kobe
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/xuanming-zhang/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +67,11 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a master student majoring in Computer Science at Columbia University. My reseach interests center around Natural Language Processing, Social Computing and Dialogue Systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am a research intern working with Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} on Dialogue Systems in the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} NLP Lab at Columbia {{< /staticref >}}. Before that, I was a full-time research assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} working with Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} on NLP applications in Computational Social Science. Even before that, I also worked with Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} on topics related to sentiment analysis and opinion mining, as a research assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} HLTRI {{< /staticref >}} at UT Dallas. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I received my bachelor's degree in Computer Science with Aritifical Intelligence from {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} University of Nottingham Ningbo China {{< /staticref >}}, where I completed my first thesis project with Prof. {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} Zheng Lu {{< /staticref >}}. You can find my thesis {{< staticref "uploads/billyzhang_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
+ 
+ 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
