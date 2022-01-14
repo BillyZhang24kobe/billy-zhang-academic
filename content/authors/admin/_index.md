@@ -17,10 +17,11 @@ organizations:
 bio: My research interests include Natural Language Processing, Social Computing and Dialogue Systems.
 
 # Interests to show in About widget
-# interests:
-# - Social media analysis and opinion mining
-# - Sentiment analysis
-# - Computational Social Science, human-machine interaction and medical related areas
+interests:
+- Social media analysis and opinion mining
+- Dialogue systems
+- Computational social science
+- Sentiment analysis
 
 # Education to show in About widget
 education:
