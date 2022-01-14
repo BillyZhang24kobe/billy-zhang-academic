@@ -3,7 +3,7 @@
 
 title: Understanding "Efficient Large-Scale Multi-Modal Classification"
 subtitle: ""
-summary: "This artical (in Chinese) analyzed a paper published in AAAI-18 about multi-modal classification, which is a hot topic back then."
+summary: "This artical (in Chinese) analyzes a paper published in AAAI-18 about multi-modal classification, which is a hot topic back then."
 authors: 
 - admin
 tags: []

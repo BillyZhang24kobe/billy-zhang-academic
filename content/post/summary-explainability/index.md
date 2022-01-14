@@ -3,7 +3,7 @@
 
 title: Summary on "Generating Hierarchical Explaination on Text Classification via Feature Interaction Detection"
 subtitle: ""
-summary: This post (in Chinese) summarize the interesting facts and thoughts about a paper regarding Interpretability in NLP, in the context of text classification.
+summary: This post (in Chinese) summarizes some interesting facts and thoughts about a paper regarding Interpretability in NLP, in the context of text classification.
 tags: []
 categories: []
 date: 2020-07-14T18:39:37Z
