@@ -27,6 +27,18 @@ experience:
     company_url: 'http://www1.cs.columbia.edu/nlp/index.cgi'
     company_logo: columbia
     location: New York, US
+    date_start: '2022-02-01'
+    date_end: ''
+    description: |2-
+        Advisor: Prof. Kathleen McKeown
+        * Implementing a general framework for span-level Emotion Cause Anlaysis. 
+        * Adopting commonsense knowledge for emotion cause span extraction, emotion expression span extraction and emotion-cause span-pair extraction.
+
+  - title: Research Intern
+    company: NLP Lab, Columbia University
+    company_url: 'http://www1.cs.columbia.edu/nlp/index.cgi'
+    company_logo: columbia
+    location: New York, US
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
