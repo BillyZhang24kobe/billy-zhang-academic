@@ -21,7 +21,6 @@ interests:
 - Social media analysis and opinion mining
 - Dialogue systems
 - Computational social science
-- Sentiment analysis
 
 # Education to show in About widget
 education:
@@ -57,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,7 +69,7 @@ highlight_name: true
 
 I am a master student majoring in Computer Science at Columbia University. My reseach interests center around Natural Language Processing, Social Computing and Dialogue Systems.
 
-Currently, I am a research intern working with Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} on Dialogue Systems in the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} NLP Lab at Columbia {{< /staticref >}}. Before that, I was a full-time research assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} working with Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} on NLP applications in Computational Social Science. Even before that, I also worked with Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} on topics related to sentiment analysis and opinion mining, as a research assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} HLTRI {{< /staticref >}} at UT Dallas. 
+Currently, I am a research intern at the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} NLP Lab at Columbia {{< /staticref >}}, working closely with Prof. {<staticref "http://www.cs.columbia.edu/~kathy/">}} Kathleen McKeown {{< /staticref >}} on emotion analysis, and with Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} on Dialogue Systems. Before joining Columbia, I was a full-time research assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} at Tsinghua University, advised by Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} on NLP applications in Computational Social Science. I also keep close connection with Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} at UT Dallas. 
 
 I received my bachelor's degree in Computer Science with Aritifical Intelligence from {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} University of Nottingham Ningbo China {{< /staticref >}}, where I completed my first thesis project with Prof. {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} Zheng Lu {{< /staticref >}}. You can find my thesis {{< staticref "uploads/billyzhang_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
  
