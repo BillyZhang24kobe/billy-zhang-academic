@@ -44,7 +44,7 @@ experience:
     date_end: ''
     description: |2-
         Advisor: Prof. Kathleen McKeown
-        * Implement a general framework for span-level Emotion Cause Anlaysis and Adopt commonsense knowledge for emotion cause span extraction, emotion expression span extraction and emotion-cause span-pair extraction. [{{< staticref "uploads/ecsp-billy.pdf">}} Slides {{< /staticref >}}.]
+        * Implement a general framework for span-level Emotion Cause Anlaysis and Adopt commonsense knowledge for emotion cause span extraction, emotion expression span extraction and emotion-cause span-pair extraction.
         * Generate commonsense enhanced natual language explanations for span-level emotion cause analysis.
 
   - title: Graduate Research Intern
