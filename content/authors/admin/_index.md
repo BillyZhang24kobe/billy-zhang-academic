@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xuanming (Billy) Zhang
+title: Xuanming Zhang
 
 # Is this the primary user of the site?
 superuser: true

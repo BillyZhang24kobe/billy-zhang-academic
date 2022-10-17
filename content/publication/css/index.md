@@ -3,8 +3,8 @@
 
 title: "From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science"
 authors:
-- Huimin Chen
-- Cheng Yang
+- Huimin Chen*
+- Cheng Yang*
 - admin
 - Zhiyuan Liu
 - Maosong Sun
