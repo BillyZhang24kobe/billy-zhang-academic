@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xuanming Zhang
+title: Xuanming (Billy) Zhang
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,8 +18,9 @@ bio: My research interests include Natural Language Processing, Social Computing
 
 # Interests to show in About widget
 interests:
+- Dialogue systems with applications in education and healthcare
+- Text generation with commonsense reasoning
 - Social media analysis and opinion mining
-- Dialogue systems
 - Computational social science
 
 # Education to show in About widget
@@ -42,7 +43,7 @@ social:
   link: 'mailto:xz2995@columbia.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/XuanmingZHANG24
+  link: https://twitter.com/XuanmingZhang07
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=AMDiesgAAAAJ
@@ -66,12 +67,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hello! My name is Xuanming (Billy) Zhang, and I am currently a master student majoring in Computer Science at Columbia University. My reseach interests center around Natural Language Processing, Dialogue Systems and Social Computing. My goal is to develop practical systems for NLP that can be broadly applied to multiple social domains (e.g. education and healthcare).
 
-I am a master student majoring in Computer Science at Columbia University. My reseach interests center around Natural Language Processing, Social Computing and Dialogue Systems.
-
-Currently, I am a research intern at the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} NLP Lab at Columbia {{< /staticref >}}, working closely with Prof. {{<staticref "http://www.cs.columbia.edu/~kathy/">}} Kathleen McKeown {{< /staticref >}} on emotion analysis, and with Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} on Dialogue Systems. Before joining Columbia, I was a full-time research assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} at Tsinghua University, advised by Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} on NLP applications in Computational Social Science. I also keep close connection with Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} at UT Dallas. 
+At present, I am a Graduate Research Intern at the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} NLP Lab at Columbia {{< /staticref >}}, working closely with Prof. {{<staticref "http://www.cs.columbia.edu/~kathy/">}} Kathleen McKeown {{< /staticref >}} on emotion analysis, and with Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} on Dialogue Systems. Meanwhile, I also serve as a Collegiate Associate at {{<staticref "https://www.ets.org/research/ai-labs.html">}} ETS AI Labs {{< /staticref >}}, where I work with {{<staticref "https://www.linkedin.com/in/rahuldivekar/">}} Rahul Divekar  {{< /staticref >}} and {{<staticref "https://rutujaubale.github.io/">}} Rutuja Ubale  {{< /staticref >}} on spoken languge understanding for English Language Learning. Before joining Columbia and ETS AI Labs, I was a full-time Research Assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} at Tsinghua University, advised by Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} on NLP applications in Computational Social Science. I also keep close connection with Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} at UT Dallas on sentiment analysis.
 
 I received my bachelor's degree in Computer Science with Aritifical Intelligence from {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} University of Nottingham Ningbo China {{< /staticref >}}, where I completed my first thesis project with Prof. {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} Zheng Lu {{< /staticref >}}. You can find my thesis {{< staticref "uploads/billyzhang_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
  
  
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_short.pdf" "newtab" >}}resumé{{< /staticref >}}.

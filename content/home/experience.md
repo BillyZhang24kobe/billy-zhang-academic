@@ -22,7 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Intern
+  - title: Collegiate Associate
+    company: ETS AI Labs, Educational Testing Service
+    company_url: 'https://www.ets.org/research/ai-labs.html'
+    company_logo: ets
+    location: New York, US
+    date_start: '2022-06-07'
+    date_end: ''
+    description: |2-
+        Mentors: Rahul Divekar and Rutuja Ubale
+        * Conduct Data collection studies using Amazon Mechanical Turk
+        * Analyze and annotate data for repair and grounding
+        * Experiment with various models for spoken language understanding i.e. intent detection, slot identification, and grounding type detection in conversations
+
+  - title: Graduate Research Intern
     company: NLP Lab, Columbia University
     company_url: 'http://www1.cs.columbia.edu/nlp/index.cgi'
     company_logo: columbia
@@ -31,10 +44,10 @@ experience:
     date_end: ''
     description: |2-
         Advisor: Prof. Kathleen McKeown
-        * Implementing a general framework for span-level Emotion Cause Anlaysis. 
-        * Adopting commonsense knowledge for emotion cause span extraction, emotion expression span extraction and emotion-cause span-pair extraction.
+        * Implement a general framework for span-level Emotion Cause Anlaysis and Adopt commonsense knowledge for emotion cause span extraction, emotion expression span extraction and emotion-cause span-pair extraction. [{{< staticref "uploads/ecsp-billy.pdf">}} Slides {{< /staticref >}}.]
+        * Generate commonsense enhanced natual language explanations for span-level emotion cause analysis.
 
-  - title: Research Intern
+  - title: Graduate Research Intern
     company: NLP Lab, Columbia University
     company_url: 'http://www1.cs.columbia.edu/nlp/index.cgi'
     company_logo: columbia
@@ -43,7 +56,10 @@ experience:
     date_end: ''
     description: |2-
         Advisor: Prof. Zhou Yu
-        * Developing decent chatbot models and dialogue system pipelines to guide and help those physically inactive people via interactive and instructional natural language conversations. 
+        * Develop chatbot models and dialogue system pipelines to guide and help those physically inactive people via interactive and instructional natural language conversations. 
+        * Incorporate automatic speech recognition and text-to-speech components into the EduBot front-end user interfaces.
+        * Implement a template-based chabot by prompting the BlenderBot-3 with hand-crafted examples.
+        * Collect speech data from 500 users (~70 hours), engaging with the chat bot over topics covered in real IELTS spoken test.
         
   - title: Research Assistant
     company: THUNLP, Tsinghua University
@@ -58,7 +74,7 @@ experience:
         * Surveys on computational social science in terms of its evolving representation from symbols to embeddings
         * Social media data analysis using stance detection under COVID-19
 
-  - title: Research Assistant
+  - title: Undergraduate Research Intern
     company: HLTRI, University of Texas at Dallas
     company_url: 'https://www.hlt.utdallas.edu/index.php'
     company_logo: utd
