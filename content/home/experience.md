@@ -28,12 +28,12 @@ experience:
     company_logo: ets
     location: New York, US
     date_start: '2022-06-07'
-    date_end: ''
+    date_end: '2023-05-12'
     description: |2-
         Mentors: Rahul Divekar and Rutuja Ubale
-        * Conduct Data collection studies using Amazon Mechanical Turk
-        * Analyze and annotate data for repair and grounding
-        * Experiment with various models for spoken language understanding i.e. intent detection, slot identification, and grounding type detection in conversations
+        * Conducted literature reviews on Repair and Grounding (R&G) in conversations, defined a list of R&G types and identified gaps in the current task-oriented dialogue datasets for language learning.
+        * Designed a conversational task that is conducted between high- and low-proficiency English speakers to collect a new dataset that incorporates R&G elements.
+        * Published a first-authored paper at BEA workshop at ACL 2023 (See in publications).
 
   - title: Graduate Research Intern
     company: NLP Lab, Columbia University
@@ -41,7 +41,7 @@ experience:
     company_logo: columbia
     location: New York, US
     date_start: '2022-02-01'
-    date_end: ''
+    date_end: '2023-05-17'
     description: |2-
         Advisor: Prof. Kathleen McKeown
         * Implement a general framework for span-level Emotion Cause Anlaysis and Adopt commonsense knowledge for emotion cause span extraction, emotion expression span extraction and emotion-cause span-pair extraction.

@@ -6,7 +6,7 @@ title: Xuanming Zhang
 superuser: true
 
 # Role/position/tagline
-role: Master of Science in Computer Science
+role: Doctor of Philosophy in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,12 +14,11 @@ organizations:
   url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Processing, Social Computing and Dialogue Systems.
+bio: My research interests include Natural Language Processing, Social Computing, Dialogue Systems and Human-Computer Interaction.
 
 # Interests to show in About widget
 interests:
 - Dialogue systems with applications in education and healthcare
-- Text generation with commonsense reasoning
 - Social media analysis and opinion mining
 - Computational social science
 
@@ -28,7 +27,7 @@ education:
   courses:
   - course: MS in Computer Science
     institution: Columbia University
-    year: 2021 - now
+    year: 2021 - 2023
   - course: BS in Computer Science with Artificial Intelligence
     institution: University of Nottingham Ningbo China
     year: 2016-2020
@@ -67,10 +66,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! My name is Xuanming (Billy) Zhang, and I am currently a master student majoring in Computer Science at Columbia University. My reseach interests center around Natural Language Processing, Dialogue Systems and Social Computing. My goal is to develop practical systems for NLP that can be broadly applied to multiple social domains (e.g. education and healthcare).
+Hello! My name is Xuanming (Billy) Zhang, a first-year PhD student in Computer Science at Columbia University. I am fortunate to be advised by Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} and Prof. {{<staticref "https://www.cs.columbia.edu/~chilton/chilton.html">}} Lydia Chilton {{< /staticref >}}. I'm happy to be part of the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} Columbia NLP Lab {{< /staticref >}} and the {{<staticref "https://www.cs.columbia.edu/~chilton/">}} Computational Design Lab {{< /staticref >}}. My reseach interests center around Natural Language Processing, Dialogue Systems and Human-Computer Interaction. My goal is to develop practical systems for NLP that can be broadly applied to multiple social domains (e.g. education and healthcare).
 
-At present, I am a Graduate Research Intern at the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} NLP Lab at Columbia {{< /staticref >}}, working closely with Prof. {{<staticref "http://www.cs.columbia.edu/~kathy/">}} Kathleen McKeown {{< /staticref >}} on emotion analysis, and with Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} on Dialogue Systems. Meanwhile, I also serve as a Collegiate Associate at {{<staticref "https://www.ets.org/research/ai-labs.html">}} ETS AI Labs {{< /staticref >}}, where I work with {{<staticref "https://www.linkedin.com/in/rahuldivekar/">}} Rahul Divekar  {{< /staticref >}} and {{<staticref "https://rutujaubale.github.io/">}} Rutuja Ubale  {{< /staticref >}} on spoken languge understanding for English Language Learning. Before joining Columbia and ETS AI Labs, I was a full-time Research Assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} at Tsinghua University, advised by Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} on NLP applications in Computational Social Science. I also keep close connection with Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} at UT Dallas on sentiment analysis.
+Throughout my research journey, I am fortunately guided by so many awesome researchers and I really appreciate their help: Prof. {{<staticref "http://www.cs.columbia.edu/~kathy/">}} Kathleen McKeown {{< /staticref >}} at Columbia University, Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} at Tsinghua University, Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} at University of Texas at Dallas, and Dr. {{<staticref "https://www.linkedin.com/in/rahuldivekar/">}} Rahul Divekar  {{< /staticref >}} and {{<staticref "https://rutujaubale.github.io/">}} Rutuja Ubale {{< /staticref >}} at {{<staticref "https://www.ets.org/research/ai-labs.html">}} ETS AI Labs {{< /staticref >}}.
 
+<!-- At present, I am a Graduate Research Intern at the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} NLP Lab at Columbia {{< /staticref >}}, working closely with Prof. {{<staticref "http://www.cs.columbia.edu/~kathy/">}} Kathleen McKeown {{< /staticref >}} on emotion analysis, and with Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} on Dialogue Systems. Meanwhile, I also serve as a Collegiate Associate at {{<staticref "https://www.ets.org/research/ai-labs.html">}} ETS AI Labs {{< /staticref >}}, where I work with {{<staticref "https://www.linkedin.com/in/rahuldivekar/">}} Rahul Divekar  {{< /staticref >}} and {{<staticref "https://rutujaubale.github.io/">}} Rutuja Ubale  {{< /staticref >}} on spoken languge understanding for English Language Learning. Before joining Columbia and ETS AI Labs, I was a full-time Research Assistant in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} at Tsinghua University, advised by Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} on NLP applications in Computational Social Science. I also keep close connection with Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} at UT Dallas on sentiment analysis. -->
+ 
 I received my bachelor's degree in Computer Science with Aritifical Intelligence from {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} University of Nottingham Ningbo China {{< /staticref >}}, where I completed my first thesis project with Prof. {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} Zheng Lu {{< /staticref >}}. You can find my thesis {{< staticref "uploads/billyzhang_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
  
  
