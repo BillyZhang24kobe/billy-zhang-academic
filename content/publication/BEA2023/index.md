@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications"
-publication_short: "BEA 2023"
+publication_short: "BEA 2023 @ ACL 2023"
 
 abstract: "Improving conversational proficiency is a key target for students learning a new language. While acquiring conversational proficiency, students must learn the linguistic mechanisms of Repair and Grounding (R&G) to negotiate meaning and find common ground with their interlocutor so conversational breakdowns can be resolved. Task-oriented Spoken Dialogue Systems (SDS) have long been sought as a tool to hone conversational proficiency. However, the R&G patterns for language learners interacting with a task-oriented spoken dialogue system are not reflected explicitly in any existing datasets. Therefore, to move the needle in Spoken Dialogue Systems for language learning we present GrounDialog: an annotated dataset of spoken conversations where we elicit a rich set of R&G patterns."
 
