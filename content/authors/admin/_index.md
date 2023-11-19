@@ -6,7 +6,7 @@ title: Xuanming Zhang
 superuser: true
 
 # Role/position/tagline
-role: Doctor of Philosophy in Computer Science
+role: PhD student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,19 +18,27 @@ bio: My research interests include Natural Language Processing, Social Computing
 
 # Interests to show in About widget
 interests:
-- Dialogue systems with applications in education and healthcare
+- Dialogue systems with applications in education
+- Human-AI interaction and collaboration
 - Social media analysis and opinion mining
 - Computational social science
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Columbia University
+    year: 2023 - present
   - course: MS in Computer Science
     institution: Columbia University
     year: 2021 - 2023
   - course: BS in Computer Science with Artificial Intelligence
     institution: University of Nottingham Ningbo China
     year: 2016-2020
+
+service:
+  courses:
+  - course: Reviewer for EMNLP 2023, CHI 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,7 +74,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! My name is Xuanming (Billy) Zhang, a first-year PhD student in Computer Science at Columbia University. I am fortunate to be advised by Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} and Prof. {{<staticref "https://www.cs.columbia.edu/~chilton/chilton.html">}} Lydia Chilton {{< /staticref >}}. I'm happy to be part of the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} Columbia NLP Lab {{< /staticref >}} and the {{<staticref "https://www.cs.columbia.edu/~chilton/">}} Computational Design Lab {{< /staticref >}}. My reseach interests center around Natural Language Processing, Dialogue Systems and Human-Computer Interaction. My goal is to develop practical systems for NLP that can be broadly applied to multiple social domains (e.g. education and healthcare).
+Hello! My name is Xuanming (Billy) Zhang, a first-year PhD student in Computer Science at Columbia University. I am fortunate to be advised by Prof. {{<staticref "http://www.cs.columbia.edu/~zhouyu/">}} Zhou Yu {{< /staticref >}} and Prof. {{<staticref "https://www.cs.columbia.edu/~chilton/chilton.html">}} Lydia Chilton {{< /staticref >}}. I'm happy to be part of the {{<staticref "http://www1.cs.columbia.edu/nlp/index.cgi">}} Columbia NLP Lab {{< /staticref >}} and the {{<staticref "https://www.cs.columbia.edu/~chilton/">}} Computational Design Lab {{< /staticref >}}. My reseach interests center around Natural Language Processing, Dialogue Systems and Human-AI Interaction. My goal is to develop practical NLP systems that can be broadly applied to assit human-AI collaboration.
 
 Throughout my research journey, I am fortunately guided by so many awesome researchers and I really appreciate their help: Prof. {{<staticref "http://www.cs.columbia.edu/~kathy/">}} Kathleen McKeown {{< /staticref >}} at Columbia University, Prof. {{<staticref "http://nlp.csai.tsinghua.edu.cn/~lzy/">}} Zhiyuan Liu {{< /staticref >}} in {{<staticref "http://nlp.csai.tsinghua.edu.cn/">}} THUNLP {{< /staticref >}} at Tsinghua University, Prof. {{<staticref "https://www.hlt.utdallas.edu/~vince/">}} Vincent Ng {{< /staticref >}} at University of Texas at Dallas, Prof. {{<staticref "https://www.linkedin.com/in/rahuldivekar/">}} Rahul Divekar  {{< /staticref >}} at Bentley University, and {{<staticref "https://rutujaubale.github.io/">}} Rutuja Ubale {{< /staticref >}} at {{<staticref "https://www.ets.org/research/ai-labs.html">}} ETS AI Labs {{< /staticref >}}.
 
@@ -75,4 +83,4 @@ Throughout my research journey, I am fortunately guided by so many awesome resea
 I received my bachelor's degree in Computer Science with Aritifical Intelligence from {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} University of Nottingham Ningbo China {{< /staticref >}}, where I completed my first thesis project with Prof. {{<staticref "https://www.nottingham.edu.cn/en/index.aspx">}} Zheng Lu {{< /staticref >}}. You can find my thesis {{< staticref "uploads/billyzhang_thesis.pdf" "newtab" >}}here{{< /staticref >}}.
  
  
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_short.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_short.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

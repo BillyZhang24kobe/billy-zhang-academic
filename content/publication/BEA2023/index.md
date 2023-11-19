@@ -43,7 +43,7 @@ featured: false
 url_pdf: https://aclanthology.org/2023.bea-1.26.pdf
 url_code:
 url_dataset:
-url_poster:
+url_poster: https://docs.google.com/presentation/d/1IAgrz-hDn1Jg4xZdDmnaA1YJYe_941VKjrTf3g5EJfE/edit?usp=sharing
 url_project:
 url_slides:
 url_source:

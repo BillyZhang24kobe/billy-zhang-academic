@@ -10,3 +10,6 @@ node_modules/
 # MacOS
 .DS_Store
 *.icloud
+
+# past section
+arxived_section/

@@ -13,9 +13,9 @@ main:
   # - name: Research
   #   url: '#experience'
   #   weight: 20
-  - name: Posts
-    url: '#posts'
-    weight: 40
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 40
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
